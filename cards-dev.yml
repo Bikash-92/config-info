@@ -2,7 +2,7 @@ build:
   version: "3.0v"
 
 cards:
-  message: "Hey, Welcome to Bank cards Development related APIs"
+  message: "Hey, Welcome to Bank cards Dev related APIs"
   contactDetails:
     name: "Kamlesh"
     email: "kamlesh@hotmal.com"
