@@ -2,7 +2,7 @@ build:
   version: "3.0v"
 
 accounts:
-  message: "Hey, Welcome to Bank account dev related APIs"
+  message: "Hey, Welcome to Bank account development related APIs"
   contactDetails:
        name: "Lal"
        email: "Lal@hotmal.com"
