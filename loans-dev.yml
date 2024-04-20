@@ -1,0 +1,11 @@
+build:
+  version: "3.0v"
+
+loans:
+  message: "Hey, Welcome to Bank loans dev related APIs"
+  contactDetails:
+    name: "Sama"
+    email: "sama@hotmal.com"
+  onCallSupport:
+    - (666)- 898777
+    - (666)- 898799

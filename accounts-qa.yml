@@ -1,0 +1,11 @@
+build:
+  version: "3.0v"
+
+accounts:
+  message: "Hey, Welcome to Bank account qa related APIs"
+  contactDetails:
+    name: "Sampad"
+    email: "sampad@hotmal.com"
+  onCallSupport:
+    - (666)- 898777
+    - (666)- 898799

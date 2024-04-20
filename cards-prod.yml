@@ -1,0 +1,11 @@
+build:
+  version: "3.0v"
+
+cards:
+  message: "Hey, Welcome to Bank cards dev related APIs"
+  contactDetails:
+    name: "kavita"
+    email: "kavita@hotmal.com"
+  onCallSupport:
+    - (666)- 898777
+    - (666)- 898799
