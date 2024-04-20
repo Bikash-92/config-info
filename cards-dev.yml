@@ -4,8 +4,8 @@ build:
 cards:
   message: "Hey, Welcome to Bank cards dev related APIs"
   contactDetails:
-    name: "Kamlesh"
-    email: "kamlesh@hotmal.com"
+    name: "ShyamPrashad"
+    email: "shyamprashad@hotmal.com"
   onCallSupport:
     - (666)- 898777
     - (666)- 898799
