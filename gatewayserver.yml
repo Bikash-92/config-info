@@ -2,6 +2,7 @@ server:
   port: 8072
 eureka:
   instance:
+    prefer-ip-address: true
     preferIpAddress: true
   client:
     register-with-eureka: true
